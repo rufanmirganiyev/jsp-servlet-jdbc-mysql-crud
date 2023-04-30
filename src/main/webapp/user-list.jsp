@@ -15,7 +15,7 @@
 		<nav class="navbar navbar-expand-md navbar-dark"
 			style="background-color: #845BB3">
 			<div>
-				<a href="https://github.com/mirganiyevrufan" class="navbar-brand"> User
+				<a href="https://github.com/rufanmirganiyev/jsp-servlet-jdbc-mysql-crud" class="navbar-brand"> User
 					Management App </a>
 			</div>
 
